@@ -7,9 +7,12 @@ Fatty liver
 |Column|Type|Options|
 |-------|----|-------|
 user_id|integer|primary key, index
-name|varchar|null: false, unique: true
-email|varchar|null: false, unique: true
-password|varchar|null: false
 
 ### Association
 - has_many: user_groups
+
+#### マークダウンtest
+||2018.04.05|2018.02.06|2017.08.10
+||----------|----------|----------|
+AST(GOT)(U/L)|65|71|37
+ALT(GPT)(U/L)|146|115|44
