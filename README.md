@@ -12,4 +12,4 @@ email|varchar|null: false, unique: true
 password|varchar|null: false
 
 ### Association
--has_many: user_groups
+- has_many: user_groups
